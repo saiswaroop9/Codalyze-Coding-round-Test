@@ -14,7 +14,7 @@ The apis must validate all query parameters sent by the frontend and return appr
 
 Under no condition should this api break with Internal Server Error / 500
 
-##Steps to run this code
+## Steps to run this code
 
 Uncomment the code in loadDataInDB file, this is a one time code which will build the data using CSV and dump everything in MongoDB as JSON Object.
 
